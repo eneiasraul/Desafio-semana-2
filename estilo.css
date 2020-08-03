@@ -1,0 +1,31 @@
+html, body {
+    margin: 0;
+}
+#imagemdefundo {
+    background: url("192f01a6e6e957b02c433fea4acfb05a.jpg");
+    height: 100%;
+    text-align: center;
+}
+#titulo {
+    color: white;
+    padding-top: 20%;
+}
+#subtitulo {
+    color: white;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+#botao {
+    color: white;
+    border: 1px white solid;
+    padding: 10px 10px 10px 10px ; 
+}
+#class.icone {
+    width: 50px;
+}
+#projeto {
+        background-color: #f7f7f7;
+}
+#mudar {
+    background-color: #f7f7f7;
+}
